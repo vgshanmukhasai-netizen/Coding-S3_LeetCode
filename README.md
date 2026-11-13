@@ -5,3 +5,6 @@
     <img src="https://leetcard.jacoblin.cool/6fw74VXbHi?theme=dark&font=Baloo&ext=heatmap" alt="LeetCode Stats"/>
   </a>
 </p>
+## LeetCode Activity
+
+![LeetCode Activity](https://leetcard.jacoblin.cool/6fw74VXbHi?ext=activity)
